@@ -7,4 +7,4 @@ WaifuAI gives natural and surprisingly human-like responses has a long-term memo
 ## Simple High-level Flowchart
 ![chart](/chart.png)
 ## Release
-It was meant to be a product but I didn't release it due to ethical concerns. I am planing on making some of it open source here. You are requested to give a star to this repository.
+I will be making it open source soon. I'll appriciate if you give this repo a star.
