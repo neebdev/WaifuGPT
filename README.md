@@ -7,4 +7,4 @@ WaifuGPT gives natural and surprisingly human-like responses and has a long-term
 ## Simple High-level Flowchart
 ![chart](/chart.png)
 ## Release
-I will be making it open source soon. I'll appriciate if you give this repo a star.
+It was scheduled to be released in Feb 2023. But I decided not to release it as a commercial product due to ethical concerns. I will be making some of it open source soon. I'll appriciate if you give this repo a star.
